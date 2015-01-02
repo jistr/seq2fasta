@@ -21,13 +21,13 @@ Usage example
 -------------
 
 ```
-seq2fas.py first.seq second.seq third.seq > all_sequences.fas
+seq2fasta.py first.seq second.seq third.seq > all_sequences.fas
 ```
 
 Or, if you want to convert all .seq files in the current directory:
 
 ```
-seq2fas.py *.seq > all_sequences.fas
+seq2fasta.py *.seq > all_sequences.fas
 ```
 
 
